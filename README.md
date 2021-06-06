@@ -10,3 +10,6 @@ Maio/2021 - Dezembro/2022
 * Graduação em Sistemas para Internet
 Faculdade UniAlfa
 Fevereiro/2019 - Junho/2021
+## Projetos Pessoais
+* Facilita Escola - Gestor Escolar
+Projeto em andamento como Trabalho de Conclusão de Curso da graduação.
