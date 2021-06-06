@@ -13,3 +13,13 @@ Fevereiro/2019 - Junho/2021
 ## Projetos Pessoais
 * Facilita Escola - Gestor Escolar
 Projeto em andamento como Trabalho de Conclusão de Curso da graduação.
+## Redes Sociais
+* [GitHub]
+* [Facebook]
+* [Instagram]
+* [LinkedIn]
+
+[GitHub]: <https://github.com/janferracini>
+[Facebook]: <https://www.facebook.com/janferracini>
+[Instagram]: <https://www.instagram.com/janferracini/>
+[LinkedIn]: <https://www.linkedin.com/in/janferracini>
