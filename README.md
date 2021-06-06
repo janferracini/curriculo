@@ -19,3 +19,23 @@ Fevereiro/2019 - Junho/2021
 * Google Analytics para iniciantes, Google Academy - 2020
 * Produção de Conteúdo, RockContent - 2020
 * WordPress na Prática, RockContent - 2020
+## Conhecimentos
+### Soft Skills
+* Proatividade
+* Relacionamento Interpessoal
+* Colaboração
+* Organização
+* Ética
+### Hard Skills
+* Conhecimento em HTML
+* Conhecimento em CSS
+* Conhecimento básico em JavaScript 
+* Conhecimento em Flutter
+* Conhecimento em desenvolvimento básico em Android
+### Eventos
+* TDC2020 RECIFE - Trilha de Web e Front-End Palestra: Mobile First Media Queries: utilizando tecnologias para a criação de um PWA
+Parceria com Anderson Fernandes(Burnes)
+Outubro 2020
+* IV Congresso Internacional de Ciência, Tecnologia e Inovação e XVIII Encontro Anual de Iniciação Científica da UNIPAR.
+Apresentação do Painel: Aspectos Conceituais dos Principais Métodos Biométricos – Revisão Bibliográfica
+Outubro de 2019
